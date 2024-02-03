@@ -4,8 +4,12 @@ My figma link: https://www.figma.com/file/nvJJ0WgQxOgp0t5xJzb2ap/Lost%26Found-(P
 
 
 One Page from my Figma:
+
+
 ![image](https://github.com/qndska/Widgetfromfigma/assets/106175374/60256b7a-2141-4040-baaa-08b75c530890)
 
 
 Result of this code:
+
+
 ![image](https://github.com/qndska/Widgetfromfigma/assets/106175374/b24823a3-67ee-4bc5-ba2d-cd72ed450897)
