@@ -12,4 +12,5 @@ My figma link: https://www.figma.com/file/nvJJ0WgQxOgp0t5xJzb2ap/Lost%26Found-(P
 ## Result of this code:
 
 
-![image](https://github.com/qndska/Widgetfromfigma/assets/106175374/b24823a3-67ee-4bc5-ba2d-cd72ed450897)
+![image](https://github.com/qndska/Widgetfromfigma/assets/106175374/9c3787ab-5da8-4c39-aa92-ad24caf1c8a9)
+
