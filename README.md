@@ -12,4 +12,4 @@ My figma link: https://www.figma.com/file/nvJJ0WgQxOgp0t5xJzb2ap/Lost%26Found-(P
 ## Result of this code:
 
 
-![u](https://github.com/qndska/Widgetfromfigma/assets/106175374/35a805ea-fc5c-44f4-b0ea-d8690beec15f)
+![image](https://github.com/qndska/Widgetfromfigma/assets/106175374/e0153af6-78c1-426a-89f0-99b85fe0557e)
