@@ -8,5 +8,5 @@ One page from Figma:            &nbsp; &nbsp; &nbsp;    &nbsp; &nbsp; &nbsp; &nb
 <img src="![image](https://github.com/qndska/Widgetfromfigma/assets/106175374/60256b7a-2141-4040-baaa-08b75c530890)"  width="200"/>
     &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp;  &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;                             
 
-<img src="![u](https://github.com/qndska/Widgetfromfigma/assets/106175374/eaa69330-4dc4-4a06-bea7-e23e8b909799)" width="200"/>
+![u](https://github.com/qndska/Widgetfromfigma/assets/106175374/eaa69330-4dc4-4a06-bea7-e23e8b909799)
 
