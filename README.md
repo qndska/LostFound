@@ -2,7 +2,6 @@
 Widget from one page from Figma
 Figma link: https://www.figma.com/file/nvJJ0WgQxOgp0t5xJzb2ap/Lost%26Found-(Project)?type=design&node-id=0%3A1&mode=design&t=irYTPFP25Pd7vEDB-1
 
-Result of this code:
+## Result of this code:
 
-
-![u](https://github.com/qndska/Widgetfromfigma/assets/106175374/f9769e87-f8b6-42b2-b69e-054679bd2b69)
+![Screenshot_1706957766](https://github.com/qndska/Widgetfromfigma/assets/106175374/8aa0317d-db3e-4275-b83c-a0dbd67ddb48)
