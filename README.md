@@ -4,4 +4,5 @@ Figma link: https://www.figma.com/file/nvJJ0WgQxOgp0t5xJzb2ap/Lost%26Found-(Proj
 
 ## Result of this code:
 
-![Screenshot_1706957766](https://github.com/qndska/Widgetfromfigma/assets/106175374/8aa0317d-db3e-4275-b83c-a0dbd67ddb48)
+<img src="https://raw.githubusercontent.com/qndska/Widgetfromfigma/main/assets/106175374/8aa0317d-db3e-4275-b83c-a0dbd67ddb48" width="200"/>
+
