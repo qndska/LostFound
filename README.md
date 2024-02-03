@@ -5,7 +5,7 @@ Figma link: https://www.figma.com/file/nvJJ0WgQxOgp0t5xJzb2ap/Lost%26Found-(Proj
 
 One page from Figma:            &nbsp; &nbsp; &nbsp;    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                &nbsp; &nbsp; &nbsp; &nbsp;                      &nbsp; &nbsp; &nbsp; &nbsp;            &nbsp; &nbsp; &nbsp; &nbsp;                                                      Result of this code:
 
+<img src="![image](https://github.com/qndska/Widgetfromfigma/assets/106175374/60256b7a-2141-4040-baaa-08b75c530890)"  width="200"/>
+    &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp;  &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;                             
 
-![image](https://github.com/qndska/Widgetfromfigma/assets/106175374/60256b7a-2141-4040-baaa-08b75c530890)    &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp;  &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;                             
-
-![Screenshot_1706957337](https://github.com/qndska/Widgetfromfigma/assets/106175374/7d182589-776d-4c4f-b7ba-bb641ced2479)
+<img src="![Screenshot_1706957337](https://github.com/qndska/Widgetfromfigma/assets/106175374/7d182589-776d-4c4f-b7ba-bb641ced2479)" width="200"/>
