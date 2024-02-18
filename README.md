@@ -5,7 +5,7 @@ Figma link: https://www.figma.com/file/nvJJ0WgQxOgp0t5xJzb2ap/Lost%26Found-(Proj
 <img src="https://github.com/qndska/LostFound/assets/106175374/77ab45a7-f9ec-4089-a26a-3abab8deff52" width="200"/>
 
 ## two page from Figma + Homepage
-<br /> Homepage:<br /> 
+Homepage:<br /> <br /> 
 <img src="https://github.com/qndska/LostFound/assets/106175374/845ddfb7-bd96-426b-8c96-212e5464bce3" width="200"/>
 <img src="https://github.com/qndska/LostFound/assets/106175374/95a671fb-962c-4ec1-b0a1-847e96f36fb8" width="200"/>
 <img src="https://github.com/qndska/LostFound/assets/106175374/31f7b392-6fb5-4c31-af57-becbeac67712" width="200"/>
