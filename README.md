@@ -1,4 +1,3 @@
-![Screenshot_1708280381](https://github.com/qndska/LostFound/assets/106175374/3f0314d7-29fc-4030-bc6a-061a4256a893)## Lost&Found Flutter
 Figma link: https://www.figma.com/file/nvJJ0WgQxOgp0t5xJzb2ap/Lost%26Found-(Project)?type=design&node-id=0%3A1&mode=design&t=irYTPFP25Pd7vEDB-1
 
 ## One page from Figma
